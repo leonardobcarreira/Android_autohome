@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AutoHome</string>
+    <string name="Cafeteira">Cafeteira</string>
+    <string name="order_button">Pedir</string>
+    <string name="Luz">Luz</string>
+    <string name="status_Item">Item</string>
+    <string name="status_status">status</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="codigo_de_ativação">Código de ativação</string>
+    <string name="senha">Senha</string>
+    <string name="usuario">Email</string>
+    <string name="log_out">Log out</string>
+    <string name="settings">Settings</string>
+    <string name="Submeter">Submeter</string>
+    <string name="username">Nome de usuário</string>
+    <color name="title_color">#00FFFF</color>
+    <dimen name="title_size">35sp</dimen>
+    <color name="result_color">#00FFFF</color>
+    <dimen name="result_size">20sp</dimen>
+    <string-array name="screens">
+        <item>Luz</item>
+        <item>Cafeteira</item>
+        <item>Status</item>
+        <item>Log</item>
+    </string-array>
+</resources>

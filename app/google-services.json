@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "547907390641",
+    "firebase_url": "https://autohome-cfe1f.firebaseio.com",
+    "project_id": "autohome-cfe1f",
+    "storage_bucket": "autohome-cfe1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547907390641:android:75d56e3695f274bc",
+        "android_client_info": {
+          "package_name": "sel373android.leonardocarreira.com.br.voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547907390641-gmoqoi4fkvntmi6j40u8cpl7836nddte.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sel373android.leonardocarreira.com.br.voice",
+            "certificate_hash": "ce77d77d852618694fbe24c59d4c34ff7e8393fe"
+          }
+        },
+        {
+          "client_id": "547907390641-563djthvuug61cl9an66dc7rqolp4k9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJARjL_MPiLXwd0JgsuyhJ_uO4BL7mhdQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547907390641-563djthvuug61cl9an66dc7rqolp4k9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
